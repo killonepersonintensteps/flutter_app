@@ -1,5 +1,5 @@
 import "package:flutter/material.dart";
-import '/route/PageB.dart';
+// import '/route/PageB.dart';
 
 class HomePage extends StatelessWidget {
   @override
@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
         direction: Axis.horizontal,
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
-          Chip(label: label)
+          // Chip(label: "123")
         ],
       )
     );

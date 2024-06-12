@@ -55,7 +55,8 @@ class HomePage extends StatelessWidget {
                   textDirection: TextDirection.rtl,
                 ),
 
-                Text.rich(TextSpan(
+                Text.rich(
+                  TextSpan(
                     text: "漫天黄沙卷星辰,",
                     style: TextStyle(
                       color: Colors.red,

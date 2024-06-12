@@ -8,7 +8,10 @@ import "package:flutter/material.dart";
 // import "Layout/flex.dart";
 // import "layout/01_container.dart";
 // import "layout/04_wrap.dart";
-import "basic/01_text.dart";
+// import "basic/01_text.dart";
+// import "basic/03_listview.dart";
+// import "demo/life_cycle.dart";
+import "demo/goods_list.dart";
 
 void main() {
   runApp(MyApp());
